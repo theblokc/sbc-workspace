@@ -12,7 +12,7 @@ npm install -g tsx ts-node
 
 # Run this commands after
 # export PATH="/home/codespace/.local/share/solana/install/active_release/bin:$PATH"
-# source "$HOME/.cargo/env"
+# source "$HOME/.cargo/env"eco
 
 # Try this command to check
 # solana --version

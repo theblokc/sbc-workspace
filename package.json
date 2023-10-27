@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "check-balance": "tsx 01-system-program/01-read-balance.ts",
+    "transfer-sol": "tsx 01-system-program/02-transfer-sol.ts",
+    "create-token": "tsx 02-token-program/01-create-token-mint.ts",
+    "token-account": "tsx 02-token-program/02-create-token-account.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
